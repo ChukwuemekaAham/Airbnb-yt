@@ -3,9 +3,9 @@
 This is a live demo turorial followed on PAPAFARM youtube channel owned by Sonny Songa. The example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 ## To start the app run
-npm start
+npm run dev
 # or
-yarn run dev
+yarn dev
 
 
 ## Deploy your own
